@@ -2,7 +2,7 @@
 Polyglot Telegram Bot
 
 # Execute
-- C `gcc bot.c -lcurl`
+- C `gcc bot.c -lcurl && ./a.out`
 - PHP `php bot.c`
 - PY2 `python2 bot.c`
 - PY3 `python3 bot.c`
